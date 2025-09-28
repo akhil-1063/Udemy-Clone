@@ -30,7 +30,7 @@ Udemy-Clone/
 │── /Images
 
 ## 🌐 Live Demo
-[GitHub Pages Link](  https://akhil-1063.github.io/Udemy-Clone/)
+[Page Link](  https://akhil-1063.github.io/Udemy-Clone/)
 
 
 
